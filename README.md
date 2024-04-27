@@ -4,7 +4,7 @@
 
 ## Play in your browser
 
-**[Click here to play online](http://dawid.myslak.me/2048)**. Use keyboard arrows to slide tiles left, right, up or down. Your goal is to merge as many tiles as possible and eventually create a tile with 2048 value.
+**[Click here to play online](https://2048-princesahoo.netlify.app/)**. Use keyboard arrows to slide tiles left, right, up or down. Your goal is to merge as many tiles as possible and eventually create a tile with 2048 value.
 
 ---
 
