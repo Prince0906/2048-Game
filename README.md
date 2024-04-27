@@ -1,6 +1,6 @@
 # 2048 game
 
-![2048 game](http://dawid.myslak.me/images/2048-game.png)
+![2048 game](https://github.com/Prince0906/2048-Game/blob/main/Image/Screenshot%202024-04-27%20at%2019.59.35.png)
 
 ## Play in your browser
 
